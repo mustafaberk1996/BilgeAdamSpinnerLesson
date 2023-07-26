@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpinnerLesson English</string>
+    <string name="fruit">Fruit</string>
+    <string name="car">Car</string>
+    <string name="show_selected_item">Show Selected Item</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="cherry">Cherry</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pear">Pear</string>
+
+</resources>

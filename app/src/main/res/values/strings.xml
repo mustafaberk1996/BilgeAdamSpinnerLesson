@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerLesson</string>
+    <string name="fruit">Meyve</string>
+    <string name="car">Araba</string>
+    <string name="show_selected_item">Secili Elemani Goster</string>
+    <string name="apple">Elma</string>
+    <string name="banana">Muz</string>
+    <string name="cherry">Kiraz</string>
+    <string name="pineapple">Ananas</string>
+    <string name="pear">Armut</string>
+
+</resources>
